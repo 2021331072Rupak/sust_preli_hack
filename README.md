@@ -36,7 +36,7 @@ Code snippet
 OPENAI_API_KEY=your_openai_api_key_here
 PORT=3000
 3. Start up the Server
-Run the application locally:
+Run the application locally: 
 
 Bash
 node app.js
