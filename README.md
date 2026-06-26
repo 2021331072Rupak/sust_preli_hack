@@ -23,10 +23,9 @@ AI Integration: OpenAI API (gpt-4o-mini)
 
  Quick Start
 1. Install Dependencies
-Clone the repository and install the required packages:
+Clone the repository and install the required packages: npm install express cors dotenv
 
-Bash
-npm install express cors dotenv
+
 2. Environment Setup
 Create a .env file in the root of your project:
 
@@ -36,7 +35,7 @@ Code snippet
 OPENAI_API_KEY=your_openai_api_key_here
 PORT=3000
 3. Start up the Server
-Run the application locally: 
+Run the application locally: node app.js
 
 Bash
 node app.js
